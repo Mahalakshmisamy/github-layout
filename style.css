@@ -1,0 +1,50 @@
+body{
+    border:1px solid gray;
+    width: 660px;
+    height: 860px;
+    margin:10px 300px;
+    padding:10px
+}
+form
+{
+    width: 60%;
+    height: 100px;
+    margin:10px;
+    }
+    #name
+    {
+        display: flex;
+        width: 200px;
+    }
+    table{
+        border-collapse: collapse;
+        empty-cells: hide;
+        color: black;
+    }
+    table tbody td,th{
+        border:none;
+        padding:2px;
+        width: 20%;
+        color: gray;
+    }
+    table tbody td{
+        text-align: center;
+    }
+    tablr tbody th{
+        font-size: 0.08em;
+        background-color: aqua;
+    }
+    input[type="radio"]
+{
+    width: 15px;
+    height: 20px;
+
+}
+.additional
+{
+    width: 630px;
+    height: 80px;
+}
+button{
+    padding:10px;
+}
